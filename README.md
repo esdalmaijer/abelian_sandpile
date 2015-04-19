@@ -7,7 +7,7 @@ A Python implementation of the super-cool abelian sandpile method. For more info
 
 The algorithm avalanches all piles at once in each iteration (which works relatively quick).
 
-![simple example](https://github.com/esdalmaijer/abelian_sandpile/abelian_sandpile_10000_100x100.png)
+![simple example](https://github.com/esdalmaijer/abelian_sandpile/blob/master/abelian_sandpile_10000_100x100.png)
 
 **abelian_sandpile_onebyone.py**
 
